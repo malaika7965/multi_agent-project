@@ -1,0 +1,7 @@
+langgraph
+langchain-groq
+langchain-community
+beautifulsoup4
+requests
+python-dotenv
+streamlit
